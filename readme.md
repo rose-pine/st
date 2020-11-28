@@ -10,21 +10,16 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-< Short and concise installation/usage instructions >
+1. Clone this repo with `git clone https://github.com/rose-pine/ST.git`
+2. Run `cd ST`
+3. Run `sudo make install`
+4. Now you can run it with `st`
+5. ENJOY! 🌷
 
 ## Screenshots
 
-< Image(s) of usage. Please use detailed alt tags, eg. "Visual Studio Code with Rosé Pine" >
+![screenshot](/rsc/st.png)
 
 ## Thanks to
 
-- [Your name](https://twitter.com/<handle>)
-
-## Style guide
-
-> Delete this section from your readme
-
-- Fill in *usage, screenshots, and thanks to* sections
-- Lowercase repo name, description and `readme.md`
-- Description should be "soho vibes for example app"
-- Supported versions are allowed in readme header, eg. "Rosé Pine for Example App 3" but discouraged from repo name
+- [Miguel R. Ávila](https://github.com/MiguelRAvila)
