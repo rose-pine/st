@@ -1,0 +1,34 @@
+*background: $base 
+*foreground: $text
+
+! overlay + muted
+*color0: $overlay
+*color8: $muted
+
+! love
+*color1: $love
+*color9: $love
+
+! foam
+*color2: $foam
+*color10: $foam
+
+! gold
+*color3: $gold
+*color11: $gold
+
+! pine
+*color4: $pine
+*color12: $pine
+
+! iris
+*color5: $iris
+*color13: $iris
+
+! rose
+*color6: $rose
+*color14: $rose
+
+! text
+*color7: $text
+*color15: $text
