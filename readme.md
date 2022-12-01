@@ -32,6 +32,20 @@
 
 ## Gallery
 
+Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
+
+**Rosé Pine**
+
+![Rosé Pine with Simple Terminal](https://user-images.githubusercontent.com/108054324/205122993-c41cb0cd-c9db-4c96-b913-4d5a6d381a78.png)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn with Simple Terminal](https://user-images.githubusercontent.com/108054324/205123205-4433843c-f790-4d8f-bb22-65ca92fbadf4.png)
+
+**Rosé Pine Moon**
+
+![Rosé Pine Moon with Simple Terminal](https://user-images.githubusercontent.com/108054324/205123308-39c120f9-8bd6-4395-baab-f2e34976b9be.png)
+
 ## Thanks to
 
 - [Miguel R. Ávila](https://github.com/MiguelRAvila)
