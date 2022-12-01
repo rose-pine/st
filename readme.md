@@ -27,7 +27,7 @@
 **Without recompilation**
 
 1. Check if your `st` build has the [`xresources`](https://st.suckless.org/patches/xresources/) patch enabled (required for this method).
-2. Copy the file corresponding to your favorite flavor, i.e. `rose-pine.Xresources`, `rose-pine-moon.Xresources` or `rose-pine-dawn.Xresources` from the `dist/xresources` directory in the repository to your home directory.
+2. Copy the contents of the file corresponding to your favorite flavor, i.e. `rose-pine.Xresources`, `rose-pine-moon.Xresources` or `rose-pine-dawn.Xresources` from the `dist/xresources` directory in the repository to the `.Xresources` file on your system.
 3. Run `xrdb merge <pathToXresourcesFile>` to fetch the file, include the command in an autostart file (such as `xinitrc`) to run automatically on every startup.
 
 ## Gallery
