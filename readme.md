@@ -15,14 +15,15 @@
 
 **With recompilation**
 
-1. Browse to the source code directory of your `st` build and remove the following lines from the `config.def.h`
+1. Open the `config.h` file inside the source code directory of your `st` build, or the `config.def.h` file if you are installing for the first time.
+2. Remove the following lines
     - `static const char *colorname[]`, i.e. array containing the terminal colors
     - `unsigned int defaultfg`, i.e. default foreground color
     - `unsigned int defaultbg`, i.e. default background color
     - `unsigned int defaultcs`, i.e. default cursor color
     - `static unsigned int defaultrcs`, i.e. default reverse cursor color
-2. Copy the contents of the file corresponding to your favorite flavor (named `rose-pine.h`, `rose-pine-moon.h` or `rose-pine-dawn.h`) from the `src/config` folder and paste in the `config.def.h` file.
-3. Run `make install` using elevated privileges (as `root` or using `sudo` or `doas`) to rebuild `st`.
+3. Copy the contents of the file corresponding to your favorite flavor (named `rose-pine.h`, `rose-pine-moon.h` or `rose-pine-dawn.h`) from the `dist/config` folder and paste in the `config.h` or `config.def.h` file.
+4. Run `make uninstall` and `make clean install` to reinstall `st` with elevated privileges (as `root` or using `sudo` or `doas`).
 
 **Without recompilation**
 
